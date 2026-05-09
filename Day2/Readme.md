@@ -134,12 +134,6 @@ Screenshots related to:
 
 - Agentforce 360 Platform Basics module
 - Agentforce 360 Platform Development Basics module
-- Salesforce App Launcher
-- Object Manager
-- Tabs and Navigation
-- Completed Trailhead badges
-- Salesforce Playground activities
-- Hands-on platform exploration
 
 are available in the `screenshots` folder.
 
