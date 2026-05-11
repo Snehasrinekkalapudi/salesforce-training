@@ -140,8 +140,7 @@ First Name + Last Name
 ## 2️⃣ Remaining Seats
 ```text
 Total Seats - Enrolled Students
----
-
+```
 ## 3️⃣ Percentage
 ```text
 (Obtained Marks / Total Marks) * 100
