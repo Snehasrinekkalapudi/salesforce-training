@@ -140,7 +140,6 @@ First Name + Last Name
 ## 2️⃣ Remaining Seats
 ```text
 Total Seats - Enrolled Students
-
 ---
 
 ## 3️⃣ Percentage
