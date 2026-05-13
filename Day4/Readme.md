@@ -137,7 +137,9 @@ After successful student registration:
 
 ---
 
-# 🖼️ Flow Diagram Image
+# 🔄 Flow Diagram
+
+## Example: Automatic Welcome Email Flow
 
 ![Automatic Welcome Email Flow](Day4/Automatic_Welcome_Email_Flow.jpeg)
 
@@ -176,15 +178,3 @@ Automation also:
 
 Salesforce Flow Builder allows organizations to automate workflows without coding, making enterprise systems faster, smarter, and more reliable.
 
----
-
-# ✅ Conclusion
-
-Through this project, we learned:
-- What Flow Builder is
-- Types of Salesforce Flows
-- Importance of automation in enterprise systems
-- Difference between manual and automated processes
-- Real-world automation ideas for College Management System
-
-Salesforce Flow Builder helps organizations streamline workflows and improve productivity using powerful no-code automation.
