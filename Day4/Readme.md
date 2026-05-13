@@ -137,51 +137,9 @@ After successful student registration:
 
 ---
 
-# 🔄 Flow Diagram
-
-## Example: Automatic Welcome Email Flow
-
-```text
-+---------------------------+
-|  Student Registration     |
-+---------------------------+
-              |
-              v
-+---------------------------+
-|     Record Created        |
-+---------------------------+
-              |
-              v
-+---------------------------+
-| Check Email Availability  |
-+---------------------------+
-              |
-              v
-        +-------------+
-        | Is Email    |
-        | Valid?      |
-        +-------------+
-          /       \
-        Yes       No
-         |         |
-         v         v
-+----------------+   +----------------+
-| Send Welcome   |   |   Stop Flow    |
-| Email          |   +----------------+
-+----------------+
-         |
-         v
-+----------------+
-| Confirmation   |
-| Email Sent     |
-+----------------+
-```
-
----
-
 # 🖼️ Flow Diagram Image
 
-![Automatic Welcome Email Flow](a_clean_white_background_infographic_flowchart_dia.png)
+![Automatic Welcome Email Flow](Day4/Automatic_Welcome_Email_Flow.jpeg)
 
 ---
 
