@@ -141,7 +141,7 @@ After successful student registration:
 
 ## Example: Automatic Welcome Email Flow
 
-![Automatic Welcome Email Flow](Day4/Automatic_Welcome_Email_Flow.jpeg)
+![Automatic Welcome Email Flow](Automatic_Welcome_Email_Flow.jpeg)
 
 ---
 
